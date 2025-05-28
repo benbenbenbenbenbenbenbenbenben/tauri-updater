@@ -5,11 +5,11 @@
   "platforms": {
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSjhpQXlrcUxxMG1PSHRqT0ZHNENBTzhWK1VxNFNJTFpCRnVGYjRCMjNHemdzRzNWTnB6bW5rZ0d3S3REN2ZYMmsrT21MVlpQMHI3YzV5VnJWdmhlZWNBL0FmODJpa1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ4NDEyMDE0CWZpbGU6dXBkYXRlci5hcHAudGFyLmd6CnJIL3JzbElob0FwcGIxejgzR2RiZ2xpWUZKU3M4OXVVV2VPbHRNV3c4OHBCNHVJOVQ3VmFUbDVnSDZ5RUEyaXhZRnJwc1NmNXFIM0liMkV6SzM2ckF3PT0K",
-      "url": "https://github.com/benbenbenbenbenbenbenbenbenben/tauri-updater/raw/refs/heads/main/releases/download/v0.1.1/updater.app.tar.gz"
+      "url": "https://github.com/benbenbenbenbenbenbenbenbenben/tauri-updater/releases/download/v0.1.1/updater.app.tar.gz"
     },
       "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSjhpQXlrcUxxMG1PSHRqT0ZHNENBTzhWK1VxNFNJTFpCRnVGYjRCMjNHemdzRzNWTnB6bW5rZ0d3S3REN2ZYMmsrT21MVlpQMHI3YzV5VnJWdmhlZWNBL0FmODJpa1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ4NDEyMDE0CWZpbGU6dXBkYXRlci5hcHAudGFyLmd6CnJIL3JzbElob0FwcGIxejgzR2RiZ2xpWUZKU3M4OXVVV2VPbHRNV3c4OHBCNHVJOVQ3VmFUbDVnSDZ5RUEyaXhZRnJwc1NmNXFIM0liMkV6SzM2ckF3PT0K",
-      "url": "https://github.com/benbenbenbenbenbenbenbenbenben/tauri-updater/raw/refs/heads/main/releases/download/v0.1.1/updater.app.tar.gz"
+      "url": "https://github.com/benbenbenbenbenbenbenbenbenben/tauri-updater/releases/download/v0.1.1/updater.app.tar.gz"
     }
   }
 }
